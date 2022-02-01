@@ -8,7 +8,9 @@ git clone https://github.com/yosir-neym/kodluyoruzilkrepo.git
 ```
 ## Usage
 Kullandığınız text editorde dosyayı açın. Örnek VS Code:
-``` code kodluyoruzilkrepo``` 
+``` 
+code kodluyoruzilkrepo
+``` 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## Licensing
